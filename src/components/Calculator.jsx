@@ -105,7 +105,7 @@ const Calculator = () => {
     }
   };
   const checkForConfetti = (expression) => {
-    const regex = /(\b2\b|\b6\b)/g;
+    const regex = /(\b33\b|\b99\b)/g;
     const matches = expression.match(regex);
     return matches && matches.length >= 2;
   };
