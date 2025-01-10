@@ -54,5 +54,5 @@ To run the project locally, follow these steps:
 
 For any questions or suggestions, feel free to reach out.
 
-- GitHub: [tauqueeralam42](https://github.com/tauqueeralam42)
-- Email: tauqueeralam42@gmail.com.com
+- GitHub: [adarshsingh](https://github.com/432534)
+- Email: adarshsingh8853757189@gmail.com.com
