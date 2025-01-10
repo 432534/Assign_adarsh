@@ -48,7 +48,7 @@ To run the project locally, follow these steps:
 1. Use the numeric keypad and operators to perform calculations.
 2. Click on scientific functions like sin, cos, tan, ln, log, √, !, x², x³, xʸ, eˣ, 10ˣ to apply these operations.
 3. Toggle between day and night mode using the toggle button for different viewing preferences.
-4. Experience the ConfettiExplosion effect when performing specific operations like 2 * 6.
+4. Experience the ConfettiExplosion effect when performing specific operations like 33 * 99.
 
 ## Contact
 
