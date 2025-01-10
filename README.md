@@ -6,7 +6,7 @@ Confetti-Calculator is a web-based scientific calculator built using Vite and Re
 
 - **Standard Calculator Functions:** Includes basic arithmetic operations (+, -, *, /).
 - **Scientific Functions:** Extends functionality with trigonometric functions (sin, cos, tan), logarithmic functions (ln, log), factorial (!), square root (√), and more.
-- **ConfettiExplosion:** Enjoy a fun visual effect with confetti when performing specific operations (e.g., 2 * 6).
+- **ConfettiExplosion:** Enjoy a fun visual effect with confetti when performing specific operations (e.g.,33 * 99).
 - **Day-Night Toggle:** Switch between light and dark themes for different viewing preferences.
 - **Responsive Design:** Ensures usability on various devices and screen sizes.
 
